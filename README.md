@@ -23,6 +23,13 @@ A modern, responsive personal finance dashboard designed to help users organize 
 
 ---
 
+## 📸 Dashboard Preview
+
+Experience the SpendWise AI personal finance dashboard, featuring a modern dark interface, financial summaries, cash-flow visualization, and spending breakdowns.
+
+![SpendWise AI Dashboard](public/spendwise-dashboard.png)
+
+
 ## ✨ About the Project
 
 Managing personal finances doesn't have to feel complicated.
